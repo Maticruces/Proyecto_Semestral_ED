@@ -6,4 +6,5 @@ Integrantes:
 
   - para compilar usar comando g++ -o main main.cpp
 
-- ./main 
+- ./main.exe
+
