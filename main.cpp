@@ -89,7 +89,7 @@ void runExperiments(const std::string& text, int num) {
 
 int main() {
     // Leer el archivo de entrada
-    std::ifstream inputFile("sources.200MB");
+    std::ifstream inputFile("proteins.50MB");
     if (!inputFile) {
         std::cerr << "Error: Could not open input file." << std::endl;
         return 1;
